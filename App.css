@@ -1,0 +1,15 @@
+/* src/styles/App.css */
+body {
+    font-family: Arial, sans-serif;
+    padding: 20px;
+}
+
+input {
+    margin: 5px;
+    padding: 5px;
+}
+
+button {
+    margin: 5px;
+    padding: 5px 10px;
+}
